@@ -47,7 +47,7 @@ export default {
       v-bind="$attrs"
       :data-bs-toggle="pro ? 'tooltip' : null"
       :data-bs-placement="pro ? 'top' : null"
-      :title="pro ? 'Pro Element' : null"
+      :title="pro ? 'You need to pay to see this video' : null"
     >
       <img
         class="w-100"

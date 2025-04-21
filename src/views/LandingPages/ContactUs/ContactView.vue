@@ -26,7 +26,7 @@ onMounted(() => {
         <DefaultNavbar
           :sticky="true"
           :action="{
-            route: 'https://www.creative-tim.com/product/vue-material-kit-pro',
+            route: '#-pro',
             color: 'bg-gradient-success',
             label: 'Buy Now',
           }"

@@ -37,8 +37,7 @@ html {
 
 .navbar-blur {
   -webkit-backdrop-filter: $blur-backdrop-filter;
-  backdrop-filter: $blur-backdrop-filter;
-  background-color: rgba($white, .58) !important;
+  background-color: rgba($white, .3) !important;
 }
 
 .blur-section {

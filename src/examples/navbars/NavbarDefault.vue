@@ -15,9 +15,9 @@ const props = defineProps({
     color: String,
     label: String,
     default: () => ({
-      route: "https://www.creative-tim.com/product/vue-material-kit",
+      route: "#",
       color: "bg-gradient-success",
-      label: "Free Download"
+      label: "Book a session"
     })
   },
   transparent: {
@@ -95,7 +95,7 @@ watch(
     :class="{
       'z-index-3 w-100 shadow-none navbar-transparent position-absolute my-3':
         props.transparent,
-      'my-3 blur border-radius-lg z-index-3 py-2 shadow py-2 start-0 end-0 mx-4 position-absolute mt-4':
+      'my-3 navbar-blur border-radius-lg z-index-3 py-2 shadow py-2 start-0 end-0 mx-4 position-absolute mt-4':
         props.sticky,
       'navbar-light bg-white py-3': props.light,
       ' navbar-dark bg-gradient-dark z-index-3 py-3': props.dark
@@ -120,7 +120,7 @@ watch(
         title="Designed and Coded by Creative Tim"
         data-placement="bottom"
       >
-        Material Kit 2
+        Master Edges Platform
       </RouterLink>
       <RouterLink
         class="navbar-brand d-block d-md-none"
@@ -137,7 +137,7 @@ watch(
         Material Design
       </RouterLink>
       <a
-        href="https://www.creative-tim.com/product/vue-material-kit-pro"
+        href="#-pro"
         class="btn btn-sm bg-gradient-success mb-0 ms-auto d-lg-none d-block"
         >Buy Now</a
       >
@@ -161,7 +161,7 @@ watch(
         id="navigation"
       >
         <ul class="navbar-nav navbar-nav-hover ms-auto">
-          <li class="nav-item dropdown dropdown-hover mx-2">
+          <!-- <li class="nav-item dropdown dropdown-hover mx-2">
             <a
               role="button"
               class="nav-link ps-2 d-flex cursor-pointer align-items-center"
@@ -928,7 +928,7 @@ watch(
               </svg>
               Github
             </a>
-          </li>
+          </li> -->
         </ul>
         <ul class="navbar-nav d-lg-block d-none">
           <li class="nav-item">

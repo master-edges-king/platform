@@ -1,4 +1,4 @@
-# [Vue Material Kit 2](http://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=https://www.creative-tim.com/product/vue-material-kit&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20https://www.creative-tim.com/product/vue-material-kit)
+# [Vue Material Kit 2](http://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk) [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?url=#&text=Check%20Vue%20Material%20kit%20Pro%20made%20by%20@CreativeTim%20#webdesign%20#kit%20#materialdesign%20#vue%20#)
 
 ![version](https://img.shields.io/badge/version-2.0.0-blue.svg) [![GitHub issues open](https://img.shields.io/github/issues/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aopen+is%3Aissue) [![GitHub issues closed](https://img.shields.io/github/issues-closed-raw/creativetimofficial/vue-material-kit.svg)](https://github.com/creativetimofficial/vue-material-kit/issues?q=is%3Aissue+is%3Aclosed)
 
@@ -62,7 +62,7 @@ Let us know your thoughts below. And good luck with development!
 
 ## Versions
 
-[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
+[<img src="https://raw.githubusercontent.com/creativetimofficial/public-assets/master/logos/vue-logo.jpg?raw=true" width="60" height="60" />](#?ref=readme-vmk)
 
 | VueJS |
 | ----- |
@@ -81,7 +81,7 @@ Let us know your thoughts below. And good luck with development!
 
 Quick start options:
 
-- Buy from [Creative Tim](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
+- Buy from [Creative Tim](#?ref=readme-vmk).
 
 ## Deploy
 
@@ -168,7 +168,7 @@ At present, we officially aim to support the last two versions of the following 
 ## Resources
 
 - [Live Preview](https://demos.creative-tim.com/vue-material-kit/#/?ref=readme-vmk)
-- [Buy Page](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk)
+- [Buy Page](#?ref=readme-vmk)
 - Documentation is [here](https://www.creative-tim.com/learning-lab/vue/overview/material-kit/?ref=readme-vmk)
 - [License Agreement](https://www.creative-tim.com/license?ref=readme-vmk)
 - [Support](https://www.creative-tim.com/contact-us?ref=readme-vmk)
@@ -178,7 +178,7 @@ At present, we officially aim to support the last two versions of the following 
 
 We use GitHub Issues as the official bug tracker for the Vue Material Kit 2. Here are some advices for our users that want to report an issue:
 
-1. Make sure that you are using the latest version of the Vue Material Kit 2. Check the CHANGELOG from your dashboard on our [website](https://www.creative-tim.com/product/vue-material-kit?ref=readme-vmk).
+1. Make sure that you are using the latest version of the Vue Material Kit 2. Check the CHANGELOG from your dashboard on our [website](#?ref=readme-vmk).
 2. Providing us reproducible steps for the issue will shorten the time it takes for it to be fixed.
 3. Some issues may be browser specific, so specifying in what browser you encountered the issue might help.
 

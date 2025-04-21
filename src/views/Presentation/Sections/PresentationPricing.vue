@@ -25,7 +25,7 @@ import SimplePricingCard from "@/examples/cards/pricingCards/SimplePricingCard.v
         </div>
       </div>
     </div>
-    <div class="mt-lg-n8 mt-n6">
+    <div class="mt-lg-n8 mt-n4">
       <div class="container">
         <div class="row mt-5">
           <SimplePricingCard
